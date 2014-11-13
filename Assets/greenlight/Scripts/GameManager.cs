@@ -10,12 +10,14 @@ namespace GreenLight{
 		[SerializeField]
 		private int money = 25;
 		
+		
 		[SerializeField]
 		private TextMesh livePointDisplay;
 		[SerializeField]
 		private TextMesh moneyDisplay;
 		[SerializeField]
 		private GameObject holderMoneyDisplay;
+		
 		
 		private winLoseScreen winLose;
 		

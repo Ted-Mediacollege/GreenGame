@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 namespace GreenLight{
+	[System.Serializable]
 	public class GuiManager {
 		
 		private float screenHeight;
@@ -16,9 +17,14 @@ namespace GreenLight{
 		
 		private Vector3 itemDisplasment;
 		
+		private int itemLenght;
+		
 		[SerializeField]
 		private GameObject itemHolder;
-		private int itemLenght;
+		[SerializeField]
+		private TextMesh livePointDisplay;
+		[SerializeField]
+		private TextMesh moneyDisplay;
 		
 		public GuiManager(MonoBehaviour monoBehaviour,ItemList itemList){
 			monoBehaviour_ = monoBehaviour;
