@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  tags:
+  - itemButton
+  - bullet
+  - tower
+  - enemy
+  - 
+  Builtin Layer 0: Default
+  Builtin Layer 1: TransparentFX
+  Builtin Layer 2: Ignore Raycast
+  Builtin Layer 3: 
+  Builtin Layer 4: Water
+  Builtin Layer 5: 
+  Builtin Layer 6: 
+  Builtin Layer 7: 
+  User Layer 8: Level
+  User Layer 9: Towers
+  User Layer 10: UI
+  User Layer 11: BackParalex
+  User Layer 12: back
+  User Layer 13: Mine
+  User Layer 14: Player
+  User Layer 15: 
+  User Layer 16: 
+  User Layer 17: 
+  User Layer 18: 
+  User Layer 19: 
+  User Layer 20: 
+  User Layer 21: 
+  User Layer 22: 
+  User Layer 23: 
+  User Layer 24: 
+  User Layer 25: 
+  User Layer 26: 
+  User Layer 27: 
+  User Layer 28: 
+  User Layer 29: 
+  User Layer 30: 
+  User Layer 31: 
+  m_SortingLayers:
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0
+  - name: background
+    userID: 4
+    uniqueID: 1294021149
+    locked: 0
+  - name: backP1
+    userID: 6
+    uniqueID: 1279997071
+    locked: 0
+  - name: level
+    userID: 5
+    uniqueID: 741521227
+    locked: 0
+  - name: player
+    userID: 1
+    uniqueID: 1294392665
+    locked: 0
+  - name: light
+    userID: 2
+    uniqueID: 1263311795
+    locked: 0
+  - name: ui
+    userID: 3
+    uniqueID: 596525099
+    locked: 0

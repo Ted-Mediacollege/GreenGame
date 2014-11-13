@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 7ba7cb4a7a30d47478487511bdc289af
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: kanon_droid_0
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1844
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_1
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1844
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_2
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1844
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1640
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1640
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1640
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_6
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1640
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_7
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1640
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_8
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1640
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_9
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1640
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_10
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1640
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1436
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1436
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1436
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_14
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1436
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_15
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1436
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_16
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1436
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_17
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1436
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_18
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1436
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_20
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1232
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_21
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1232
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_22
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1232
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_23
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1232
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_24
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1232
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_25
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1232
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_26
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1232
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1028
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_29
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1028
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_30
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1028
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_31
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1028
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_32
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1028
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_33
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1028
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_34
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1028
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_36
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 824
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_37
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 824
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_38
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 824
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_39
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 824
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_40
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 824
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_41
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 824
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_42
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 824
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 620
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_45
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 620
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_46
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 620
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_47
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 620
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_48
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 620
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_49
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 620
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_50
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 620
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 416
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: kanon_droid_53
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 416
+        width: 247
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
