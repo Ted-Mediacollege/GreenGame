@@ -213,7 +213,7 @@ public class Game : MonoBehaviour {
 	}
 	public void UpdateMove(){
 		#if UNITY_PSM || UNITY_ANDROID
-        Vector2 deltaPos = new Vector2(Input.GetAxis("RightStickXAxis") * 0.2f, Input.GetAxis("RightStickYAxis") * -0.2f);
+	Vector2 deltaPos = new Vector2(Input.GetAxis("RHorizontal") * 0.2f, Input.GetAxis("RHorizontal") * -0.2f);
 		Camera.main.transform.Translate(new Vector3(deltaPos.x,deltaPos.y,0));
 		#else
         Vector2? currentPos = null;

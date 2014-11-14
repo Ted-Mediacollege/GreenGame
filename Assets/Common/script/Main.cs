@@ -17,8 +17,9 @@ public class Main : MonoBehaviour
 		}
 	}
 	
-	void Start ()
+	void Awake ()
 	{
+		_instance = this;
 		//if(UnityEditor.EditorApplication.isPlaying){
 			game = (Game)Game.instance;
 		//}

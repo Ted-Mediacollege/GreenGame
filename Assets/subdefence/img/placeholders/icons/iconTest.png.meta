@@ -1,6 +1,23 @@
 fileFormatVersion: 2
 guid: 0a2e79a32be2ce047ae992d65f15f02f
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: iconTest_0
+    21300002: iconTest_1
+    21300004: iconTest_2
+    21300006: iconTest_3
+    21300008: iconTest_4
+    21300010: iconTest_5
+    21300012: iconTest_6
+    21300014: iconTest_7
+    21300016: iconTest_8
+    21300018: iconTest_9
+    21300020: iconTest_10
+    21300022: iconTest_11
+    21300024: iconTest_12
+    21300026: iconTest_13
+    21300028: iconTest_14
+    21300030: iconTest_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -35,6 +52,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
   textureType: 8
@@ -50,6 +68,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_1
       rect:
         serializedVersion: 2
@@ -59,6 +78,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_2
       rect:
         serializedVersion: 2
@@ -68,6 +88,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_3
       rect:
         serializedVersion: 2
@@ -77,6 +98,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_4
       rect:
         serializedVersion: 2
@@ -86,6 +108,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_5
       rect:
         serializedVersion: 2
@@ -95,6 +118,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_6
       rect:
         serializedVersion: 2
@@ -104,6 +128,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_7
       rect:
         serializedVersion: 2
@@ -113,6 +138,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_8
       rect:
         serializedVersion: 2
@@ -122,6 +148,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_9
       rect:
         serializedVersion: 2
@@ -131,6 +158,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_10
       rect:
         serializedVersion: 2
@@ -140,6 +168,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_11
       rect:
         serializedVersion: 2
@@ -149,6 +178,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_12
       rect:
         serializedVersion: 2
@@ -158,6 +188,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_13
       rect:
         serializedVersion: 2
@@ -167,6 +198,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_14
       rect:
         serializedVersion: 2
@@ -176,6 +208,7 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: iconTest_15
       rect:
         serializedVersion: 2
@@ -185,5 +218,6 @@ TextureImporter:
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

@@ -1,6 +1,39 @@
 fileFormatVersion: 2
 guid: 03fc295eeea68a944886c51f8338f4a0
 TextureImporter:
+  fileIDToRecycleName:
+    21300000: freeze_droid_build_0
+    21300002: freeze_droid_build_1
+    21300004: freeze_droid_build_2
+    21300006: freeze_droid_build_3
+    21300008: freeze_droid_build_4
+    21300010: freeze_droid_build_5
+    21300012: freeze_droid_build_6
+    21300014: freeze_droid_build_7
+    21300016: freeze_droid_build_8
+    21300018: freeze_droid_build_9
+    21300020: freeze_droid_build_10
+    21300022: freeze_droid_build_11
+    21300024: freeze_droid_build_12
+    21300026: freeze_droid_build_13
+    21300028: freeze_droid_build_14
+    21300030: freeze_droid_build_15
+    21300032: freeze_droid_build_16
+    21300034: freeze_droid_build_17
+    21300036: freeze_droid_build_18
+    21300038: freeze_droid_build_19
+    21300040: freeze_droid_build_20
+    21300042: freeze_droid_build_21
+    21300044: freeze_droid_build_22
+    21300046: freeze_droid_build_23
+    21300048: freeze_droid_build_24
+    21300050: freeze_droid_build_25
+    21300052: freeze_droid_build_26
+    21300054: freeze_droid_build_27
+    21300056: freeze_droid_build_28
+    21300058: freeze_droid_build_29
+    21300060: freeze_droid_build_30
+    21300062: freeze_droid_build_31
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -35,6 +68,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
   textureType: 8
@@ -50,6 +84,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_1
       rect:
         serializedVersion: 2
@@ -59,6 +94,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_2
       rect:
         serializedVersion: 2
@@ -68,6 +104,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_3
       rect:
         serializedVersion: 2
@@ -77,6 +114,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_4
       rect:
         serializedVersion: 2
@@ -86,6 +124,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_5
       rect:
         serializedVersion: 2
@@ -95,6 +134,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_6
       rect:
         serializedVersion: 2
@@ -104,6 +144,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_7
       rect:
         serializedVersion: 2
@@ -113,6 +154,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_8
       rect:
         serializedVersion: 2
@@ -122,6 +164,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_9
       rect:
         serializedVersion: 2
@@ -131,6 +174,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_10
       rect:
         serializedVersion: 2
@@ -140,6 +184,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_11
       rect:
         serializedVersion: 2
@@ -149,6 +194,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_12
       rect:
         serializedVersion: 2
@@ -158,6 +204,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_13
       rect:
         serializedVersion: 2
@@ -167,6 +214,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_14
       rect:
         serializedVersion: 2
@@ -176,6 +224,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_15
       rect:
         serializedVersion: 2
@@ -185,6 +234,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_16
       rect:
         serializedVersion: 2
@@ -194,6 +244,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_17
       rect:
         serializedVersion: 2
@@ -203,6 +254,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_18
       rect:
         serializedVersion: 2
@@ -212,6 +264,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_19
       rect:
         serializedVersion: 2
@@ -221,6 +274,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_20
       rect:
         serializedVersion: 2
@@ -230,6 +284,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_21
       rect:
         serializedVersion: 2
@@ -239,6 +294,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_22
       rect:
         serializedVersion: 2
@@ -248,6 +304,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_23
       rect:
         serializedVersion: 2
@@ -257,6 +314,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_24
       rect:
         serializedVersion: 2
@@ -266,6 +324,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_25
       rect:
         serializedVersion: 2
@@ -275,6 +334,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_26
       rect:
         serializedVersion: 2
@@ -284,6 +344,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_27
       rect:
         serializedVersion: 2
@@ -293,6 +354,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_28
       rect:
         serializedVersion: 2
@@ -302,6 +364,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_29
       rect:
         serializedVersion: 2
@@ -311,6 +374,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_30
       rect:
         serializedVersion: 2
@@ -320,6 +384,7 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
     - name: freeze_droid_build_31
       rect:
         serializedVersion: 2
@@ -329,5 +394,6 @@ TextureImporter:
         height: 177
       alignment: 0
       pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

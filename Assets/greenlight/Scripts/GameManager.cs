@@ -11,19 +11,19 @@ namespace GreenLight{
 		private int money = 25;
 		
 		
-		[SerializeField]
-		private TextMesh livePointDisplay;
-		[SerializeField]
-		private TextMesh moneyDisplay;
-		[SerializeField]
-		private GameObject holderMoneyDisplay;
+		//[SerializeField]
+		//private TextMesh livePointDisplay;
+		//[SerializeField]
+		//private TextMesh moneyDisplay;
+		//[SerializeField]
+		//private GameObject holderMoneyDisplay;
 		
 		
 		private winLoseScreen winLose;
 		
 		private void Start(){
-			livePointDisplay.text = "life: "+livePoints.ToString();
-			moneyDisplay.text = "money: "+money.ToString();
+			//livePointDisplay.text = "life: "+livePoints.ToString();
+			//moneyDisplay.text = "money: "+money.ToString();
 			winLose = gameObject.GetComponent<winLoseScreen>() as winLoseScreen;
 		}
 		
@@ -33,7 +33,7 @@ namespace GreenLight{
 				//livePointDisplay.text = "life: "+livePoints.ToString()+" gameOver";
 				GameOver();
 			}else{
-				livePointDisplay.text = "life: "+livePoints.ToString();
+				//livePointDisplay.text = "life: "+livePoints.ToString();
 			}
 		}
 		
@@ -51,7 +51,7 @@ namespace GreenLight{
 		
 		public void ChangeMoney ( int c) {
 			money+=c;
-			moneyDisplay.text = "money: "+money.ToString();
+			//moneyDisplay.text = "money: "+money.ToString();
 		}
 		
 		public bool CheckMoney ( int c) {

@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace GreenLight{
 	[System.Serializable]
-	public class GuiManager {
+	public class GuiInterface {
 		
 		private float screenHeight;
 		private float screenWidth;
@@ -26,7 +26,7 @@ namespace GreenLight{
 		[SerializeField]
 		private TextMesh moneyDisplay;
 		
-		public GuiManager(MonoBehaviour monoBehaviour,ItemList itemList){
+		public GuiInterface(MonoBehaviour monoBehaviour,ItemList itemList){
 			monoBehaviour_ = monoBehaviour;
 			itemList_ = itemList;
 			

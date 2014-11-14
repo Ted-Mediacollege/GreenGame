@@ -53,13 +53,13 @@ namespace GreenLight{
 			towerMngr = linkHolder.towerManger;
 			gameMngr = linkHolder.gameManager;
 			itemsList = linkHolder.itemList;
-			
+
 			bulletHolder = new GameObject("bullets");
 			itemLenght = itemsList.items.Length;
-
 			
+			guiMngr = Main.instance.gui;
 			for ( int i = 0; i < itemLenght; i++){
-				guiMngr.CreateButton(i);
+				/////guiMngr.CreateButton(i);
 			}
 			
 			//create line

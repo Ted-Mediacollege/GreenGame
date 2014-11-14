@@ -6,7 +6,7 @@ namespace GreenLight{
 		
 		
 		private TowerManager _towerManager;
-		private GuiManager _guiHolder;
+		private GuiInterface _guiInterface;
 		private GameManager _gameManager;
 		[SerializeField]
 		private ItemList itemList_;
@@ -29,12 +29,12 @@ namespace GreenLight{
 			}*/
 		}
 		
-		public GuiManager guiHolder {
+		public GuiInterface guiInterface {
 			get { 
-				if(_guiHolder==null){
-					_guiHolder = new GuiManager(this,itemList);;
+				if(_guiInterface==null){
+					_guiInterface = new GuiInterface(this,itemList);;
 				}
-				return _guiHolder; 
+				return _guiInterface; 
 			}
 		}
 		public GameManager gameManager {
