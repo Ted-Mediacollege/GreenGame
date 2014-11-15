@@ -7,7 +7,7 @@ public class pathData : MonoBehaviour
 	private Vector3 startPoint;
 	private Vector3[] points;
 
-	void Start () {
+	public void Init () {
 		int childscount = this.gameObject.transform.childCount;
 		points = new Vector3[childscount];
 

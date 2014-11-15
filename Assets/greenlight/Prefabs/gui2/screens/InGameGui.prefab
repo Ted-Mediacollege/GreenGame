@@ -47,12 +47,12 @@ MonoBehaviour:
     message: GreenLightHallo
     parent: 0
     gameObject: {fileID: 100000, guid: ca2faf86dd535da49b84f0ec04512004, type: 2}
-  - x: 0
-    y: 0
+  - x: -40
+    y: -130
     isButton: 0
     message: GreenLightHallo
-    parent: 4
-    gameObject: {fileID: 100000, guid: 91ef5de669a6caf47b8b565d79ef2ecf, type: 2}
+    parent: 0
+    gameObject: {fileID: 100000, guid: 7d18504033403664781743cad587f5e6, type: 2}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

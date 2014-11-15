@@ -9,11 +9,19 @@ namespace GreenLight{
 		private GuiInterface _guiInterface;
 		private GameManager _gameManager;
 		[SerializeField]
+		private PathManager _pathManager;
+		[SerializeField]
 		private ItemList itemList_;
 		
 		public ItemList itemList{
 			get{
 				return itemList_;
+			}
+		}
+		
+		public PathManager patheManager{
+			get{
+				return _pathManager;
 			}
 		}
 		
