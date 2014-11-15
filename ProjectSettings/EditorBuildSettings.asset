@@ -19,7 +19,9 @@ EditorBuildSettings:
     path: Assets/subdefence/scenes/Levels/Level5.unity
   - enabled: 0
     path: Assets/scenes/Menu/Loading.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/gameLab/test/kit/kit.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/gameLab/scenes/MainMenu.unity
+  - enabled: 1
+    path: Assets/greenlight/Scenes/Hello.unity

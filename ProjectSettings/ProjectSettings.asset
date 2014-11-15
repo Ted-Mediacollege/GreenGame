@@ -14,8 +14,8 @@ PlayerSettings:
   productName: towerDefence
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
-  defaultScreenWidth: 1280
-  defaultScreenHeight: 720
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
   defaultScreenWidthWeb: 1280
   defaultScreenHeightWeb: 720
   m_RenderingPath: 1
@@ -74,6 +74,8 @@ PlayerSettings:
     16:9: 1
     Others: 0
   iPhoneBundleIdentifier: com.Company.ProductName
+  metroEnableIndependentInputSource: 0
+  metroEnableLowLatencyPresentationAPI: 0
   productGUID: 0a49335232890334f9670978558ab7a4
   iPhoneBundleVersion: 1.0
   AndroidBundleVersionCode: 1
@@ -119,7 +121,7 @@ PlayerSettings:
   - m_BuildTarget: Standalone
     m_StaticBatching: 1
     m_DynamicBatching: 1
-  webPlayerTemplate: PROJECT:towerDefense
+  webPlayerTemplate: APPLICATION:Black Background
   m_TemplateCustomTags: {}
   wiiRegion: 1
   wiiGameCode: RABA
@@ -179,6 +181,7 @@ PlayerSettings:
   metroSplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
   metroSplashScreenUseBackgroundColor: 0
   metroCapabilities: {}
+  metroUnprocessedPlugins: []
   metroCompilationOverrides: 1
   blackberryDeviceAddress: 
   blackberryDevicePassword: 
