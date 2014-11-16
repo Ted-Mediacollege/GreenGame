@@ -46,7 +46,7 @@ GameObject:
   - 23: {fileID: 2300000}
   - 95: {fileID: 9500000}
   m_Layer: 0
-  m_Name: ratArt
+  m_Name: RatArt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -62,7 +62,7 @@ GameObject:
   - 4: {fileID: 400006}
   - 136: {fileID: 13600000}
   m_Layer: 0
-  m_Name: collider
+  m_Name: RatCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -78,7 +78,7 @@ GameObject:
   - 4: {fileID: 400008}
   - 136: {fileID: 13600002}
   m_Layer: 0
-  m_Name: collider
+  m_Name: RatCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -94,7 +94,7 @@ GameObject:
   - 4: {fileID: 400010}
   - 136: {fileID: 13600004}
   m_Layer: 0
-  m_Name: collider
+  m_Name: RatCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -118,7 +118,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100002}
   m_LocalRotation: {x: 0, y: -.71032542, z: 0, w: .703873515}
-  m_LocalPosition: {x: 34.0779686, y: .291887283, z: -1.90747166}
+  m_LocalPosition: {x: 33.9313087, y: .291887283, z: 1.51875305}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 400000}
@@ -264,18 +264,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 100002}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 036bae38d025a7941864ce49b27dc1ff, type: 3}
+  m_Script: {fileID: 11500000, guid: 9bef3c1485921d84791ae343e94f38c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  shotSpawnObjects:
+  - {fileID: 100000, guid: faac2fe14ace8de46968a10670f80212, type: 2}
+  deadSpawnObjects: []
   maxAngularVelocity: 2
   drag: .970000029
   dashForce: 200
   moveForce: 20
   maxRotateForce: 1
-  startHealt: 0
   freezSlowDown: .5
   deFreezSpeed: .00499999989
-  deadSpawnObjects: []
   test: {fileID: 100000}
 --- !u!136 &13600000
 CapsuleCollider:

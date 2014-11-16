@@ -42,13 +42,13 @@ namespace GreenLight{
 		}
 	
 		public Vector3[] getRandomPath(Vector3 enemy, int reqDistance) {
-			Debug.Log("pathcount:"+paths.Length);
+			//Debug.Log("pathcount:"+paths.Length);
 			ArrayList pathlist = new ArrayList();
 			
 			//return a random path within reqDistance
 			for(int p = 0; p < paths.Length; p++) {
 				float distance = Vector3.Distance(paths[p].GetComponent<pathData>().getStart(), enemy);
-				Debug.Log("dist:"+distance);
+				//Debug.Log("dist:"+distance);
 				if(distance < reqDistance) {
 					pathlist.Add(p);
 				}
