@@ -49,7 +49,11 @@ namespace GreenLight{
 					LineRenderer lineRenderer = lineHolder.AddComponent<LineRenderer>();
 					lineHolder.AddComponent<LineFade>();
 					lineRenderer.SetPosition(0, gunPoint.position);
-					lineRenderer.SetPosition(1, shootEndPoint);
+					if(hit){
+						lineRenderer.SetPosition(1, hitData.point);
+					}else{
+						lineRenderer.SetPosition(1, shootEndPoint);
+					}
 					
 					//call Shot in damageable objects
 						
@@ -68,7 +72,7 @@ namespace GreenLight{
 									Debug.Log("GUN HIT DAMAGEABLE");
 									parent = null;
 								}else{
-									if(parent.transform.parent.gameObject == null){
+									if(parent.transform.parent == null){
 										parent = null;
 									}else{
 										parent = parent.transform.parent.gameObject;
